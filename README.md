@@ -16,5 +16,6 @@ Operations and commands applied in this project:
 * COMMON TABLE EXPERESSIONS
 * TEMP TABLES
 * SUBQUERIES
+* VIEWS
 
 
